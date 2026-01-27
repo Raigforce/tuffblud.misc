@@ -1,12 +1,14 @@
 # RULESSSSSS
-**DO NOT SEND INAPPROPIATE GIFS. THE GIF WILL BE BLACKLISTED AND YOU WILL GET BANNED FOR 1 DAY TO A WEEK DEPENDING ON THE SEVERITY**
+**DO NOT SEND INAPPROPIATE GIFS. THE GIF WILL BE BLACKLISTED**
 **No racial slurs**
 
 
 
-# Update Logs Dec. 9, 2025
--you can use gifs as ur profile picture
--profile pics now show in chats
+# Update Logs Jan. 26, 2026
+**-HUGE UPDATE - USERNAME AND PASSWORD SYSTEM! NO MORE ANNOYING ACCOUNT PROBLEMS!**
+**To get these new account changes, youll need to logout of your current account and create a new account**
+
+-blacklisting gifs work properly (haha femboy gif posters)
 -mod and admin rank (mod applications at https://forms.gle/bb6tn6ZMCXoPCZps6)
 
 
